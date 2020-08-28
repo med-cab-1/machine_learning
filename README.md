@@ -38,7 +38,7 @@ it has to Flask API made it easy for us to understand along with this resource
 
 Clone the repo
 ```
-git clone https://github.com/med-cab-1/data_engineer
+git clone https://github.com/med-cab-1/machine_learning
 
 cd NEW-REPO-NAME
 ```
